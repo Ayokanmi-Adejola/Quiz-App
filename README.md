@@ -2,11 +2,10 @@
 
 A modern quiz application built with React, TypeScript, and Vite, featuring an elegant UI powered by shadcn/ui components.
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-Check out the live demo: [Brainstorm Quiz App](https://ayokanmi-adejola-brainstorm-quiz.netlify.app/)
+Visit the live application: [https://ayokanmi-adejola-brainstorm-quiz.netlify.app/]
 
-![Brainstorm Quiz App](quiz.jpg)
 
 ## ✨ Features
 
