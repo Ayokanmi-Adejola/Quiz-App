@@ -2,9 +2,7 @@
 
 A modern quiz application built with React, TypeScript, and Vite, featuring an elegant UI powered by shadcn/ui components.
 
-## 🔗 Live Demo
 
-Visit the live application: [https://ayokanmi-adejola-brainstorm-quiz.netlify.app/]
 
 
 ## ✨ Features
@@ -45,7 +43,7 @@ Visit the live application: [https://ayokanmi-adejola-brainstorm-quiz.netlify.ap
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brainstorm-quiz.git
+git clone https://github.com/Ayokanmi-Adejola/brainstorm-quiz.git
 cd brainstorm-quiz
 ```
 
@@ -109,9 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
