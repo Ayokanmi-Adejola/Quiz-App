@@ -2,7 +2,6 @@
 
 A modern quiz application built with React, TypeScript, and Vite, featuring an elegant UI powered by shadcn/ui components.
 
-## Screenshots
 
 | Desktop | Tablet | Mobile |
 | ------- | ------ | ------ |
@@ -116,3 +115,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Framer Motion](https://www.framer.com/motion/) for animations
 - [Netlify](https://www.netlify.com/) for hosting
+
