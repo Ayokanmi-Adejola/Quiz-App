@@ -1,9 +1,12 @@
-# Brainstorm Quiz App
+# Brainstorm Quiz
 
 A modern quiz application built with React, TypeScript, and Vite, featuring an elegant UI powered by shadcn/ui components.
 
+## Screenshots
 
-
+| Desktop | Tablet | Mobile |
+| ------- | ------ | ------ |
+| <img width="1920" height="1678" alt="image" src="https://github.com/user-attachments/assets/c91d4040-c58e-456a-bdc7-9b7258e17d0b" /> | <img width="522" height="696" alt="image" src="https://github.com/user-attachments/assets/9630c451-04cb-41c3-b14e-457163487baa" /> | <img width="324" height="2034" alt="image" src="https://github.com/user-attachments/assets/a4002dee-8913-477a-b8ed-7d3355b59278" /> |
 
 ## ✨ Features
 
@@ -108,15 +111,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-
-## 👨‍💻 Author
-
-**Ayokanmi Adejola**
-
-- Portfolio: [https://ayokanmi-adejola-portfolio.netlify.app/]
-- LinkedIn: [https://www.linkedin.com/in/ayokanmiadejola/]
-
-## 🙏 Acknowledgments
+## 🙏 Credits
 
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Framer Motion](https://www.framer.com/motion/) for animations
